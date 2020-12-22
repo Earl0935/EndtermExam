@@ -12,11 +12,11 @@
 
 	<div class="header">
         <ul>
-            <li><a href="../index.html">Home</a></li>
-            <li><a href="../css/index.html">Css</a></li>
-            <li><a href="../svg/index.html">Svg</a></li>
-            <li><a href="../canvas/index.html">Canvas</a></li>
-            <li><a href="../aboutme/index.html">About Me</a></li>
+            <li><a href="../index.php">Home</a></li>
+            <li><a href="../css/index.php">Css</a></li>
+            <li><a href="../svg/index.php">Svg</a></li>
+            <li><a href="../canvas/index.php">Canvas</a></li>
+            <li><a href="../aboutme/index.php">About Me</a></li>
         </ul>
     </div>
 
