@@ -12,11 +12,11 @@
 
 	<div class="header">
         <ul>
-            <li><a href="../index.html">Home</a></li>
-            <li><a href="../css/index.html">Css</a></li>
-            <li><a href="../svg/index.html">Svg</a></li>
-            <li><a href="../canvas/index.html">Canvas</a></li>
-            <li><a href="../aboutme/index.html">About Me</a></li>
+            <li><a href="../index.php">Home</a></li>
+            <li><a href="../css/index.php">Css</a></li>
+            <li><a href="../svg/index.php">Svg</a></li>
+            <li><a href="../canvas/index.php">Canvas</a></li>
+            <li><a href="../aboutme/index.php">About Me</a></li>
         </ul>
     </div>
 
@@ -24,13 +24,13 @@
         <ul>
             <li><h1>Learning Task 5.1</h1></li>
             <li><a href="graphicsart/index.php">Heroku</a></li>
-            <li><a href="">Github</a></li>
+            <li><a href="https://github.com/Earl0935/EndtermExam/tree/main/svg/graphicsart">Github</a></li>
 
         </ul>
         <ul>
             <li><h1>Exam</h1></li>
             <li><a href="Exam/index.php">Heroku</a></li>
-            <li><a href="">Github</a></li>
+            <li><a href="https://github.com/Earl0935/EndtermExam/tree/main/svg/Exam">Github</a></li>
         </ul>
     </div>
 
