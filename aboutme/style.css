@@ -1,0 +1,105 @@
+body{
+    background-image: url(../img/sky-moon.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: scroll;
+
+}
+.header{
+    position: absolute;
+}
+.header ul{
+    list-style-type: none;
+
+}
+
+.header li{
+    float:left;
+    margin-left: 50px;
+
+}
+
+.header a{
+    text-decoration: none;
+    font-size: 50px;
+    color: azure;
+}
+
+.header a:hover{
+    color:#3E93FF;
+    letter-spacing: 5px;
+}
+
+.container #bat{
+    position: absolute;
+    right:100px;
+    bottom: 500px;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-name: bounce-1;
+    animation-timing-function: linear;
+}   
+   
+    @keyframes bounce-1 {
+           0%   { transform: translateY(20px); }
+           50%  { transform: translateY(-20px); }
+           100% { transform: translateY(20px); }
+}
+
+.container #bat2{
+    position: absolute;
+    right:400px;
+    bottom: 600px;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-name: bounce-2;
+    animation-timing-function: linear;
+}   
+   
+    @keyframes bounce-2 {
+           0%   { transform: scaleX(-1) translateY(20px); }
+           50%  { transform: scaleX(-1) translateY(-20px); }
+           100% { transform: scaleX(-1)translateY(20px); }
+}
+
+.container #bat3{
+    position: absolute;
+    right:300px;
+    bottom: 300px;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-name: bounce-1;
+    animation-timing-function: linear;
+}   
+   
+    @keyframes bounce-1 {
+           0%   { transform: translateY(20px); }
+           50%  { transform: translateY(-20px); }
+           100% { transform: translateY(20px); }
+}
+
+.learning{
+
+    width: 800px;
+    height: auto;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.learning ul{
+    list-style-type: none;
+
+}
+
+.learning li{
+    margin-top: 10px;
+}
+
+.learning p{
+    color:#c7d4e6;
+    font-size: 30px;
+}
+
+
+
